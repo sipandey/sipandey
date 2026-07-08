@@ -27,10 +27,3 @@ A multi-tenant arXiv paper digest pipeline utilizing a 5-phase ranking and dedup
 * *Stack: Next.js, Supabase, LLM Orchestration, Edge Middleware*
 
 ---
-
-### 📊 Applied AI Tooling & Language Distribution
-### ⚡ GitHub Analytics
-
-| My Core Ecosystem | Profile Velocity |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sipandey&layout=compact&theme=dark) | ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sipandey&show_icons=true&theme=dark) |
