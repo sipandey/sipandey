@@ -19,7 +19,7 @@ I bridge the gap between enterprise-scale frontend architecture and agentic AI s
 An AST-based static analysis tool for React codebases that generates queryable dependency graphs. Features an **MCP Server** that allows AI coding agents (Claude Code, Cursor) to natively query blast-radius metrics before making changes.
 * *Stack: Node.js, AST Parsing, SQLite, VS Code Extension, D3*
 
-#### 🧰 create-agent-room
+#### 🧰 [create-agent-room](https://www.npmjs.com/package/create-agent-room)
 A tool-agnostic CLI scaffolding an engineering operating system directly into codebases. Includes workflow classifiers, reusable skill files, and automated hooks (`close-the-loop-check.js`) that enforce logging and learning on agent exit.
 
 #### 📰 [AI Digest](https://ai-digest-web.vercel.app/)
